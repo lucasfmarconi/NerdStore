@@ -5,6 +5,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\Nerstore.Core\Nerstore.Core.csproj" />
+    <ProjectReference Include="..\Nerstore.Core\Nerstore.Core.csproj" />
   </ItemGroup>
 </Project>
